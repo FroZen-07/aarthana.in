@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Samarkan";
+  src: url("../../public/fonts/samarkan/SAMAN___.TTF");
+}
+.SanskritiFont {
+  font-family: "Samarkan";
+}
+
+.min-h-90 {
+  min-height: 89vh;
+}
